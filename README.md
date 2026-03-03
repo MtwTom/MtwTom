@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm an embedded systems engineer focused on automotive AD/ADAS software.
+I've worked across the full waterfall development lifecycle — from requirements definition to system integration and verification.
+I enjoy translating complex system requirements into scalable system and software architectures, aligned with Automotive SPICE (SYS.1~3, SWE.1, SWE.2-1).
+My background includes control algorithm development, Model-Based Development (MBD), and real-time embedded implementation for automotive actuator systems.
+I’m particularly interested in building reliable, safety-critical systems that bridge control theory and real-world vehicle platforms.
 <!--
 **MtwTom/MtwTom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
