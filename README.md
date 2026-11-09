@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,c,py,git,github,gitlab,matlab,linux,notion" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,c,py,git,github,gitlab,matlab,linux,,obsidian,notion,jenkins,lua" />
   </a>
 </p>
 
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,neovim,lua,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=rust,go,neovim,nix" />
   </a>
 </p>
