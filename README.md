@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,neovim,c,py,git,github,gitlab,matlab,linux,,obsidian,notion,jenkins,lua" />
+    <img src="https://skillicons.dev/icons?i=vim,neovim,c,py,git,github,gitlab,matlab,linux,obsidian,notion,jenkins,lua" />
   </a>
 </p>
 
